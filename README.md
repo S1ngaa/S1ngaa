@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ngaa&label=Profile%20views&color=0e75b6&style=flat" alt="s1ngaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1ngaa" alt="s1ngaa" /></a> </p>
+
 
 - 🔭 I’m currently working on [Selectfire.cc](https://www.selectfire.cc/)
 
